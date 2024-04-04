@@ -34,6 +34,3 @@ To run the News App locally, follow these steps:
 
 - **News API**: The News App utilizes the News API to fetch news articles. For more information, visit [News API](https://newsapi.org/).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
