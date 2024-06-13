@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# macOS specific files
+.DS_Store
+
+# npm debug log
+npm-debug.log
+
+# VSCode settings
+.vscode/
